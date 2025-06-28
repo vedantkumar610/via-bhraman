@@ -11,7 +11,7 @@ return (
       Plan unforgettable journeys with the best travel experiences curated just for you.
     </p>
     <button className="bg-primary text-white px-6 py-3 rounded-full hover:bg-blue-700 transition">
-      Start Planning
+      Start Planningssssssss
     </button>
   </div>
 </section>
